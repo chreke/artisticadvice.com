@@ -4,10 +4,9 @@ date:   2018-04-29 08:00:00
 author: Yoshi Yoshitani
 title: How to Price Commissions
 summary: >-
-  How much should you charge for commissions? Are your prices too low?
-  How do you find good clients? Yoshi Yoshitani answers these
-  questions and more!
-
+  Pricing your work is never easy. How much should you charge for
+  commissions? Are your prices too low?  How do you find good clients?
+  Yoshi Yoshitani answers these questions and more!
 ---
 
 *This post originally appeared on Twitter---read the [original thread
@@ -135,9 +134,9 @@ I did.
 
 First, be patient and believe in yourself.
 
-I still had a fulltime job when I started doing commissions. That
+I still had a full-time job when I started doing commissions. That
 accounted for the money I needed, which meant even if I only had one
-or 2 commissions every few months, I was still fine. And I could
+or two commissions every few months, I was still fine. And I could
 afford to charge accurate prices.
 
 In the down time, I created art that was examples of what my
@@ -165,6 +164,8 @@ believe me, I completely understand the desire to lowball in an effort
 to get any money. But also consider: there is ALWAYS someone who can
 do it cheaper than you, someone with a lower cost of living.
 
+### Good clients are a good investment
+
 Consider your clients. There are Clients who are only interested in
 getting the cheapest art they can. Competing with other artists to win
 work from them, it’s a losing game. Yes, these clients have costs to
@@ -176,6 +177,8 @@ in quality. Quality driven clients can still be frugal! Maybe they’ll
 only buy one tiny print from you, but they’ll tell ALL their friends
 about you! Clients glad to pay your prices exist, finding them is
 hard.
+
+### Work smarter, not cheaper
 
 Think of it this way: higher prices mean less work, less work means
 more time, more time that can be used to promote yourself by creating
@@ -191,10 +194,11 @@ cheap will never promote you. Clients who respect your prices are the
 ones who will tell everyone they know, which leads to a higher chance
 of Big Work $$$.
 
-I also see ppl saying "you can ask these prices because your popular!"
-Okay but— I was asking for reasonable prices when I was "unpopular".
-I had almost no commissions. Instead, I spent that time on building my
-social media and connecting with awesome ppl... and became "popular".
+I also see people saying "you can ask these prices because your
+popular!" Okay but— I was asking for reasonable prices when I was
+"unpopular".  I had almost no commissions. Instead, I spent that time
+on building my social media and connecting with awesome people... and
+became "popular".
 
 Very last note because I think it’s worth mentioning. Generally
 speaking, your goal should be to be hired by larger organizations that
@@ -211,8 +215,8 @@ it!
 
 ---
 
-[Yoshi Yoshitani][society6] is a professional illustrator currently
-located in California.
+[Yoshi Yoshitani][society6] is a professional concept artist and
+illustrator currently located in California.
 
 If you liked this post, please consider supporting her by buying
 something from her [Storenvy][storenvy] or [Society6][society6]
