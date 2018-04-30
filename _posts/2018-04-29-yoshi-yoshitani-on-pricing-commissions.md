@@ -2,10 +2,16 @@
 layout: post
 date:   2018-04-29 08:00:00
 author: Yoshi Yoshitani
+title: How to Price Commissions
+summary: >-
+  How much should you charge for commissions? Are your prices too low?
+  How do you find good clients? Yoshi Yoshitani answers these
+  questions and more!
+
 ---
 
-*This post originally appeared on Twitter---read the original thread
-here.*
+*This post originally appeared on Twitter---read the [original thread
+here][original].*
 
 Okay everyone, I know this is a hard topic, but we really have to talk
 about commission prices. 
@@ -216,6 +222,7 @@ For freelance or contract enquiries, check out [her home
 page][homepage-contact].
 
 
+[original]: https://twitter.com/yoshisquared/status/990017190970540032
 [society6]: https://society6.com/yoshiyoshitani
 [storenvy]: https://yoshiyoshitani.storenvy.com
 [homepage-contact]: https://www.yoshiyoshitani.com/about/
