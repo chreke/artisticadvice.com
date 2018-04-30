@@ -68,7 +68,7 @@ computer, electricity, programs, paint, website subscription. Paper
 may only cost $.50 but also consider you had to take the time to get
 it, or paid to have it shipped to you. That's more TIME to calculate.
 
-### Rount it UP!
+### Round it UP!
 
 Alright, let's say you've got all this, you've calculated it and you
 have a big number that you think accurately reflects your time and
